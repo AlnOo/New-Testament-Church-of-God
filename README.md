@@ -1,2 +1,2 @@
-# New-Testament-Church-of-God
-Church website
+# New Testament church of God
+ Church Website
